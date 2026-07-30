@@ -7,7 +7,7 @@ and then the report a decision is actually made on.
 
 [Portfolio](https://94spec.github.io/) · [Lead Chat](https://leadchat.online/) · [Email](mailto:xpromx94@yandex.ru)
 
-Open to Senior / Lead Applied AI roles with end-to-end ownership. Remote, UTC+3, open to teams abroad.
+Five years in engineering, two in AI. Open to Senior / Lead Applied AI roles with end-to-end ownership. Remote, UTC+3, open to teams abroad.
 
 ## Production impact
 
