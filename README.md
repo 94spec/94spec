@@ -78,6 +78,14 @@ section stating what the data cannot show.
   set itself: stratified sampling that reports what the pool could not give, annotator
   agreement before any model metric, adjudication that refuses majority vote, tamper-evident
   freezing and drift detection.
+- [voice-agent-runtime](https://github.com/94spec/voice-agent-runtime) — the parts of a voice
+  agent that are not the model: dialogue policy as a transition table, barge-in that never
+  resumes, a per-stage latency budget judged at p95, line capacity, and guardrails that decide
+  whether a reply can be spoken at all.
+- [rag-grounding-lab](https://github.com/94spec/rag-grounding-lab) — what chunking costs and
+  where each retrieval strategy loses: BM25 against Russian morphology, character n-grams
+  against near-identical codes, rank fusion carrying a wrong result. Plus sentence-level
+  grounding that separates an unsupported claim from a correct refusal.
 - [conversation-intelligence-lab](https://github.com/94spec/conversation-intelligence-lab) —
   the analytics methodology above on synthetic data: strict output contract, traceable
   aggregates, [architecture notes](https://github.com/94spec/conversation-intelligence-lab/blob/main/docs/architecture.md).
