@@ -74,6 +74,10 @@ section stating what the data cannot show.
   contracts: strict output schema, a linter where every rule names the production failure it
   prevents, and a release-impact diff that says whether a change forces the golden set to be
   re-run.
+- [golden-set-builder](https://github.com/94spec/golden-set-builder) — building the reference
+  set itself: stratified sampling that reports what the pool could not give, annotator
+  agreement before any model metric, adjudication that refuses majority vote, tamper-evident
+  freezing and drift detection.
 - [conversation-intelligence-lab](https://github.com/94spec/conversation-intelligence-lab) —
   the analytics methodology above on synthetic data: strict output contract, traceable
   aggregates, [architecture notes](https://github.com/94spec/conversation-intelligence-lab/blob/main/docs/architecture.md).
