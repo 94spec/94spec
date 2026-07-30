@@ -70,6 +70,10 @@ section stating what the data cannot show.
   [methodology](https://github.com/94spec/llm-evaluation-harness/blob/main/METHODOLOGY.md),
   [error taxonomy](https://github.com/94spec/llm-evaluation-harness/blob/main/ERROR_TAXONOMY.md)
   and a [sample report](https://github.com/94spec/llm-evaluation-harness/blob/main/reports/DEMO_REPORT.md).
+- [prompt-contracts](https://github.com/94spec/prompt-contracts) — prompts as versioned
+  contracts: strict output schema, a linter where every rule names the production failure it
+  prevents, and a release-impact diff that says whether a change forces the golden set to be
+  re-run.
 - [conversation-intelligence-lab](https://github.com/94spec/conversation-intelligence-lab) —
   the analytics methodology above on synthetic data: strict output contract, traceable
   aggregates, [architecture notes](https://github.com/94spec/conversation-intelligence-lab/blob/main/docs/architecture.md).
