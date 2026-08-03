@@ -92,7 +92,7 @@ section stating what the data cannot show.
 - [94spec.github.io](https://github.com/94spec/94spec.github.io) — the portfolio itself:
   static, no build step, with CI that checks metadata, anchors and assets.
 
-Both libraries run offline, with no API key and no third-party runtime dependencies.
+All six code repositories above run offline, with no API key and no third-party runtime dependencies.
 
 ## Stack
 
