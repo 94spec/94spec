@@ -37,12 +37,13 @@ turning that into answers the business acts on — studies of up to 3,000 deals,
 six months, covering every employee who talks to customers:
 
 - **Why conversion dropped over a quarter** — every substantive conversation for a product
-  line across three months (empty calls excluded from the base, not diluted into percentages),
-  dozens of features per deal, month over month. Observations kept separate from hypotheses.
+  line across three months (empty calls excluded from the base explicitly, before any
+  percentages), dozens of features per deal, month over month. Observations kept separate
+  from hypotheses.
 - **"Too expensive" is not always about price** — a two-level reason taxonomy, with records
-  that failed processing excluded explicitly rather than quietly. The top level says "cost";
-  the second level says the customer cannot get instalment financing. Different problem,
-  different decision.
+  that failed processing excluded explicitly, the loss stated plainly in the report. The top
+  level says "cost"; the second level says the customer cannot get instalment financing.
+  Different problem, different decision.
 - **Part of the sales team's load is not sales** — inbound requests classified by type and by
   owner (sales, refunds, support), surfacing deals closed under the wrong reason and a
   conversion denominator that was measuring the wrong thing.
