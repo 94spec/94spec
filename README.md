@@ -1,4 +1,4 @@
-# Дмитрий Пром · AI Engineer &amp; Data Analyst (LLM-based analytics)
+# Дмитрий Пром · AI Engineer / LLM Engineer
 
 I build production LLM systems that take manual work off revenue teams — and I do the
 analysis on top of the data they produce. Business rules, prompts, retrieval, model
